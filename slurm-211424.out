@@ -1,0 +1,154 @@
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR1329824_1.fastq.gz /storage/osakintu/raw_data/ERR1329824_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR1329824_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR1329824_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR1329824_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR1329824_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 1291579 Both Surviving: 1010924 (78.27%) Forward Only Surviving: 153406 (11.88%) Reverse Only Surviving: 26054 (2.02%) Dropped: 101195 (7.83%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR1329875_1.fastq.gz /storage/osakintu/raw_data/ERR1329875_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR1329875_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR1329875_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR1329875_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR1329875_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 97007 Both Surviving: 78892 (81.33%) Forward Only Surviving: 8687 (8.96%) Reverse Only Surviving: 3211 (3.31%) Dropped: 6217 (6.41%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638274_1.fastq.gz /storage/osakintu/raw_data/ERR9638274_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638274_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638274_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638274_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638274_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 13946200 Both Surviving: 533580 (3.83%) Forward Only Surviving: 11856072 (85.01%) Reverse Only Surviving: 71601 (0.51%) Dropped: 1484947 (10.65%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638275_1.fastq.gz /storage/osakintu/raw_data/ERR9638275_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638275_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638275_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638275_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638275_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 12641942 Both Surviving: 2353340 (18.62%) Forward Only Surviving: 9139958 (72.30%) Reverse Only Surviving: 97089 (0.77%) Dropped: 1051555 (8.32%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638276_1.fastq.gz /storage/osakintu/raw_data/ERR9638276_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638276_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638276_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638276_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638276_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 15006863 Both Surviving: 2379527 (15.86%) Forward Only Surviving: 11264202 (75.06%) Reverse Only Surviving: 122326 (0.82%) Dropped: 1240808 (8.27%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638278_1.fastq.gz /storage/osakintu/raw_data/ERR9638278_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638278_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638278_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638278_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638278_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 13478313 Both Surviving: 519708 (3.86%) Forward Only Surviving: 11908150 (88.35%) Reverse Only Surviving: 48459 (0.36%) Dropped: 1001996 (7.43%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638274_1.fastq.gz /storage/osakintu/raw_data/ERR9638281_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638281_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638281_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638281_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638281_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 13946200 Both Surviving: 10828506 (77.64%) Forward Only Surviving: 1561149 (11.19%) Reverse Only Surviving: 1357559 (9.73%) Dropped: 198986 (1.43%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638283_1.fastq.gz /storage/osakintu/raw_data/ERR9638283_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638283_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638283_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638283_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638283_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 14726798 Both Surviving: 1388377 (9.43%) Forward Only Surviving: 10921776 (74.16%) Reverse Only Surviving: 152088 (1.03%) Dropped: 2264557 (15.38%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638285_1.fastq.gz /storage/osakintu/raw_data/ERR9638285_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638285_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638285_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638285_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638285_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 13621300 Both Surviving: 2039395 (14.97%) Forward Only Surviving: 10552006 (77.47%) Reverse Only Surviving: 109508 (0.80%) Dropped: 920391 (6.76%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638286_1.fastq.gz /storage/osakintu/raw_data/ERR9638286_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638286_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638286_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638286_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638286_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 11427895 Both Surviving: 1630034 (14.26%) Forward Only Surviving: 8717921 (76.29%) Reverse Only Surviving: 68388 (0.60%) Dropped: 1011552 (8.85%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /storage/osakintu/raw_data/ERR9638274_1.fastq.gz /storage/osakintu/raw_data/ERR9638287_2.fastq.gz /storage/osakintu/tayo_trimmed/ERR9638287_1_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638287_1_unpaired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638287_2_paired.fq.gz /storage/osakintu/tayo_trimmed/ERR9638287_2_unpaired.fq.gz ILLUMINACLIP:/storage/osakintu/TrueSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:20
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'TTTTTTTTTTAATGATACGGCGACCACCGAGATCTACAC'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTCAAGCAGAAGACGGCATACGA'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT'
+Skipping duplicate Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 6 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 13436879 Both Surviving: 10280567 (76.51%) Forward Only Surviving: 1673849 (12.46%) Reverse Only Surviving: 1273106 (9.47%) Dropped: 209357 (1.56%)
+TrimmomaticPE: Completed successfully
